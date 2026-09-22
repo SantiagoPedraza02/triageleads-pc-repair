@@ -1,5 +1,3 @@
-https://discovered-sodalite-4b4.notion.site/e6f50502bc684d3c87d2b2e7635415c3?v=1975cd0246ba47aa8b53b0c84cece25f
-
 # Triage de Leads — Taller de Reparación de PC
 
 Sistema de automatización que recibe consultas de clientes por Gmail, 
