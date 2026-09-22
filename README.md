@@ -29,7 +29,7 @@ en Notion.
 
 
 ## Links
-
+- **VIDEO SOBRE EL WORFLOW FUNCIONANDO**: [https://youtu.be/vOJ5kR5lkGc]
 - **Base de datos (modo lectura)**: [https://discovered-sodalite-4b4.notion.site/e6f50502bc684d3c87d2b2e7635415c3?v=1975cd0246ba47aa8b53b0c84cece25f]
 
 ## Seguridad
@@ -38,4 +38,4 @@ Las credenciales (API keys, tokens de OAuth) no están incluidas en este
 repositorio ni visibles en las capturas de pantalla. El manejo de datos 
 sigue un criterio de minimización: solo se envían a la IA los campos 
 estrictamente necesarios para el diagnóstico, sin datos personales 
-identificables. Más detalle en [`/docs/seguridad.pdf`](./docs/seguridad.pdf).
+identificables. 
